@@ -1,4 +1,4 @@
-### Hi there, I'm Jhonny Lesh (Uğur) 👋🤠
+### Hi there, I'm Jhonny Lesh 👋🤠
 
 I'm a Python Developer and an Aspiring **Bug Hunter** based in Turkey. I'm currently on a **100-Day Code Challenge** journey to master cybersecurity tools, automation, and ethical hacking.
 
