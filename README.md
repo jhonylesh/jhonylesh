@@ -1,11 +1,19 @@
 ### Hi there, I'm Jhonny Lesh 👋🤠
 
-I'm a Python Developer and an Aspiring **Bug Hunter** based in Turkey. I'm currently on a **100-Day Code Challenge** journey to master cybersecurity tools, automation, and ethical hacking.
+I'm a **Full Stack Developer** and **Red Team Student** based in Turkey. I bridge the gap between software development and cybersecurity, leveraging **AI-driven tools** to build secure, efficient, and automated systems.
 
-- 🔭 I’m currently working on **Python Automation & Security Tools**
-- 🌱 I’m currently learning **Selenium, Requests, Brute-Force Logic & Algorithms**
-- 🎯 Goals: **To become a professional Bug Bounty Hunter**
-- ⚡ Fun fact: I treat my code like a puzzle; if it fits, it runs. If not, I debug until it surrenders.
+My background involves managing complex data structures, building web architectures with **.NET Core & C#**, and creating offensive security tools with **Python**.
+
+#### 🚀 What I'm Working On
+- 🔭 **Security Automation:** Building custom Brute-Force & Pentest tools with Python.
+- 📊 **Big Data Analysis:** Experience in processing and analyzing datasets with over **100,000+ rows**.
+- 🤖 **AI-Native Development:** Actively using next-gen AI IDEs (like Project IDX/Antigravity) to accelerate coding workflows.
+- 🛡️ **Ethical Hacking:** Currently on a disciplined journey to master **Offensive Security** and **Bug Hunting**.
+
+#### ⚡ Technical Philosophy
+> "I don't just write code; I analyze how it breaks. Whether it's a web app, a database with 100k records, or a security script, my goal is efficiency and resilience."
+
+---
 
 ---
 
