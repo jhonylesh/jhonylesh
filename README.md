@@ -1,74 +1,87 @@
+<h1 align="center">👋 Hello, World! I'm Jh0nnyL3sh</h1>
+<h3 align="center">Python Developer & Etichal Hacker </h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=600&lines=Initializing+Red+Team+Arsenal...;Bypassing+Mainframe...;Access+Granted.+Welcome+Jh0nnyL3sh." alt="Typing SVG" />
-</p>
-
-<h1 align="center">Offensive Security Researcher & Python Dev 🛡️</h1>
-
----
-
-```text
-> [!WARNING]
-> UNAUTHORIZED ACCESS IS PROHIBITED.
-> LOGGING IP ADDRESS... DONE.
-```
-
-🟩 A passionate **Red Team Student** dedicated to offensive security and tactical automation.  
-🟩 My primary weapon is **Python**, which I use to forge custom exploit scripts and build powerful pentest tools.  
-🟩 Deeply invested in **Ethical Hacking, OSINT, and Bug Bounty**, dissecting how systems break.  
-🟩 Leveraging deep understanding of **C# & .NET Architectures** to reverse-engineer enterprise environments.  
-🟩 Reconnaissance + Automation + Exploitation = My workflow.  
-
-<h3 align="center">🌐 SECURE CONNECTION</h3>
-<p align="center">
-  <a href="https://tryhackme.com/p/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF00" alt="TryHackMe"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Email"/></a>
+  <a href="https://github.com/jh0nnyl3sh">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="typing-gif">
+  </a>
 </p>
 
 ---
 
-<h3 align="center">⚔️ THE ARSENAL</h3>
+✨ A passionate **Developer** whose main weapon of choice is **Python**, bridging the gap between software architecture and cybersecurity.  
+🚀 I thrive on building custom automation, data engineering pipelines, and offensive security tools.  
+💡 While my daily driver is **Python**, I strategically leverage **C# & .NET Core** to architect and deliver robust, project-based enterprise web solutions.  
+🛡️ Actively hunting bugs, mastering **Offensive Security**, and analyzing how complex systems break.  
+🌟 Automation + Security + Resilience = My recipe for success.  
 
+<h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF00" />
-  <br><br>
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/.NET_Core-000000?style=for-the-badge&logo=dotnet&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00FF00" />
-  <br><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/MSSQL-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF00" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://tryhackme.com/p/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-111111?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
 </p>
 
 ---
 
-<h3 align="center">📊 SYSTEM LOGS & ACTIVITY</h3>
+<h3 align="center">💻 Tech Stack</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <th align="center">Primary & Frameworks</th>
+      <th align="center">Enterprise & Databases</th>
+      <th align="center">Tools & Security</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <br>
+        <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" /><br><br>
+        <img src="https://skillicons.dev/icons?i=selenium,bootstrap,react&theme=dark" />
+        <br><br>
+      </td>
+      <td align="center">
+        <br>
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql&theme=dark" /><br><br>
+        <img src="https://skillicons.dev/icons?i=sqlite,linux,apple,ubuntu&theme=dark" />
+        <br><br>
+      </td>
+      <td align="center">
+        <br>
+        <img src="https://skillicons.dev/icons?i=git,github,kali,bash&theme=dark" /><br><br>
+        <img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio&theme=dark" />
+        <br><br>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h3 align="center">📊 GitHub Analytics & Performance</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jh0nnyl3sh&show_icons=true&bg_color=0D1117&title_color=00FF00&text_color=00a300&icon_color=00FF00&border_color=00FF00&hide_border=false&count_private=true" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jh0nnyl3sh&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00a300&sideNums=00FF00&sideLabels=00a300&dates=00a300&border=00FF00" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jh0nnyl3sh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jh0nnyl3sh&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh0nnyl3sh&layout=compact&bg_color=0D1117&title_color=00FF00&text_color=00a300&border_color=00FF00" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh0nnyl3sh&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-```bash
-root@jh0nnyl3sh:~# cat current_operations.txt
-```
-* 🔭 **Expanding:** `Security-Arsenal` with a Django-based C2 pentest dashboard and automated Python scanners.
-* ⚙️ **Automating:** Web scraping, data extraction, and workflow automation using Python scripts.
-* 🌐 **Exploiting:** Tackling advanced CTF challenges and practicing privilege escalation.
+### 🎯 What I'm Working On
+- 🔭 **Building:** Custom Brute-Force, Recon & Pentest tools entirely powered by Python.
+- ⚙️ **Automating:** Web scraping, data extraction, and workflow automation using Python scripts.
+- 🌐 **Developing:** Strategic, project-based enterprise backend architectures with C# / .NET MVC.
 
-```bash
-root@jh0nnyl3sh:~# cat skill_upgrades.txt
-```
-* 🤖 **AI-Assisted Hacking:** Orchestrating LLMs with strict data validation (Pydantic) for security workflows.
-* 🛡️ **Advanced Red Teaming:** Elevating offensive security skills, OSINT methodologies, and Bug Bounty hunting.
-* 🐳 **DevSecOps:** Preparing Python scripts and monolithic structures for modern deployment.
+### 🌱 What I'm Learning Right Now
+- 🤖 **AI/ML Integration:** Orchestrating LLMs with strict data validation (Pydantic) inside Python environments.
+- 🛡️ **Advanced Red Teaming:** Elevating offensive security skills, OSINT methodologies, and CTF challenges.
+- 🐳 **DevOps Basics:** Preparing Python scripts and monolithic structures for modern deployment.
+
+<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
